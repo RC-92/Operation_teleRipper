@@ -7,8 +7,8 @@ Operation_TeleRipper allows users to download videos shared on a Private/Public 
 (Refer to Appendix: Setting up Telegram API for information on obtaining telegram API credentials)
 
 # Scripts:
-|-- listChannel.py
-|-- download_videos.py
+-- listChannel.py
+-- download_videos.py
 
 # Usage
 
