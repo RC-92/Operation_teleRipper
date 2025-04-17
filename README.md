@@ -28,6 +28,9 @@ to get the values from Telegram API
 2. Replace the following values in download_videos.py
    API_ID = xxxxx
    API_HASH = 'xxxxx'
+
+
+Special Thanks to Thips for the idea
 (get the values from Telegram API)
    CHANNEL = Replace with the channel id extracted from the previous script. 
 Note: Channel ID must begin with -100
